@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: report.aux
+The style file: unsrt.bst
+Database file #1: report.bib
+Warning--empty publisher in DnnBook
+You've used 18 entries,
+            1791 wiz_defined-function locations,
+            515 strings with 5683 characters,
+and the built_in function-call counts, 3213 in all, are:
+= -- 265
+> -- 133
+< -- 3
++ -- 53
+- -- 35
+* -- 144
+:= -- 443
+add.period$ -- 41
+call.type$ -- 18
+change.case$ -- 9
+chr.to.int$ -- 0
+cite$ -- 19
+duplicate$ -- 167
+empty$ -- 381
+format.name$ -- 35
+if$ -- 775
+int.to.chr$ -- 0
+int.to.str$ -- 18
+missing$ -- 13
+newline$ -- 77
+num.names$ -- 12
+pop$ -- 96
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 125
+stack$ -- 0
+substring$ -- 112
+swap$ -- 43
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 21
+width$ -- 20
+write$ -- 150
+(There was 1 warning)
